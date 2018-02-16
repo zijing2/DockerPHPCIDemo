@@ -1,4 +1,9 @@
 <?php
-//output
-echo "hello world";
+
+function helloWorld(){
+	echo "hello world";
+	return true;
+}
+
+helloWorld();
 ?>
