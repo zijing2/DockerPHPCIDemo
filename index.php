@@ -1,7 +1,7 @@
 <?php
 
 function helloWorld(){
-	echo "hello world";
+	echo "hello world!";
 	return true;
 }
 
